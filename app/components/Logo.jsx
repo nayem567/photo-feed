@@ -6,8 +6,8 @@ export default function Logo() {
     <Link href="/">
       <Image
         className="max-w-[100px] md:max-w-[165px]"
-        src="/lws_logo.png"
-        alt="Lws"
+        src="/logo.png"
+        alt="logo"
         height={156}
         width={156}
       />
